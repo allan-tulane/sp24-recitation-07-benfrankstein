@@ -59,6 +59,6 @@ Complete the `reachable` implementation and test with `test_reachable`. Think ab
 
 **put answer in answers.md**  
 
-.  
+.  It would change to O(n^2)
 .  
 .  
